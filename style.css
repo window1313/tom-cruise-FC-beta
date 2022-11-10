@@ -1,0 +1,9 @@
+body {
+    background-image: url(./cruise.jpg);
+    background-size: 14.5%;
+}
+
+.bg1 {
+    background-color: whitesmoke;
+    min-height: 120em;
+}
